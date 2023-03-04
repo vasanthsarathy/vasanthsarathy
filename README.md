@@ -8,8 +8,8 @@ I write code to test my AI research ideas, draw cartoons for fun, and constantly
   - content moderation tools to promote prosociality in online social media forums (See http://hugoai.co) 
   - a web app to assist cartoonists with generating and developing cartoon ideas
   - a web app to help everyone understand the patent system ([MPEP-QA Demo](https://huggingface.co/spaces/vsarathy/mpep-qa)). I was a patent lawyer once.
-  - 2D visualizations of mathematical knots (See [P5 sketchbook](https://editor.p5js.org/vasanthsarathy/sketches/_P4ZcYfeS))
-- 🌱 I’m currently learning [Julia](https://julialang.org/) to do some generative art with Luxor.jl. Julia feels a bit like a LISP in python garb.
+  - 2D visualizations of mathematical knots (See [P5 sketchbook](https://editor.p5js.org/vasanthsarathy/sketches/_P4ZcYfeS) for roughs)
+- 🌱 I’m currently learning [OpenFrameworks](https://openframeworks.cc/) to do some creative coding, and more mathematical visualizations
 - 👯 I’m looking to collaborate on generative AI, computational humor and creative coding 
 
 
