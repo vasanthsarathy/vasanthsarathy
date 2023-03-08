@@ -2,7 +2,7 @@
 
 #### I'm Vasanth, welcome to my GitHub profile
 
-I write code to test my AI research ideas, draw cartoons for fun, and constantly think about ways to use AI and code for artistic projects
+I write code to test my AI research ideas, draw cartoons for fun, and constantly think about ways to combine AI and creativity and inventiveness.
 
 - 🔭 I’m currently building:
   - content moderation tools to promote prosociality in online social media forums (See http://hugoai.co) 
