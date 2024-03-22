@@ -3,6 +3,7 @@
 #### I'm Vasanth, welcome to my GitHub profile
 
 I write code to test my AI research ideas, draw cartoons for fun, and constantly think about ways to combine AI with creativity and inventiveness.
+
 <!--
 **vasanthsarathy/vasanthsarathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
