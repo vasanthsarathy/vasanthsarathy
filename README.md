@@ -2,7 +2,7 @@
 
 #### I'm Vasanth, welcome to my GitHub profile
 
-I write code to test my AI research ideas, draw cartoons for fun, and constantly think about ways to combine AI with creativity and inventiveness.
+I write code to test my AI research ideas, draw cartoons for fun, play chess, and constantly think about ways AI can enhance our lives as thought-helpers and co-creators.
 
 You can find more about my research [here](https://vsarathy.com/)
 
